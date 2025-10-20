@@ -4,7 +4,7 @@ This repository contains the minified files for the Portal Customization Plugin 
 
 ## Files
 
-- `portal-live-editor001.min.js` - Minified JavaScript file for portal live editor
+- `portal-live-editor.min.js` - Minified JavaScript file for portal live editor
 - `portal-live-editor.min.css` - Minified CSS file for portal live editor
 
 ## Usage
