@@ -2,7 +2,7 @@
 *
 
 # But track these specific files
-!portal-live-editor.min.js
+!portal-live-editor002.min.js
 !portal-live-editor.min.css
 !.gitignore
 !README.md
