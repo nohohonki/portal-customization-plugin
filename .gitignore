@@ -4,6 +4,5 @@
 # But track these specific files
 !portal-live-editor.min.js
 !portal-live-editor.min.css
-!licence-auth.min.js
 !.gitignore
 !README.md
